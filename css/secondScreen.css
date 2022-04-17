@@ -42,6 +42,7 @@
 	font-style: normal;
 	padding: 16px;
 	height: 56px;
+	transition: 0.4s linear;
 }
 
 .menu-title h2 {

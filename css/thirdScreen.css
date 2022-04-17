@@ -31,6 +31,7 @@
 
 .margin-chapter {
 	margin-top: 32px;;
+	transition: 450ms ease-out;
 }
 
 .item {
